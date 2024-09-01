@@ -1,6 +1,6 @@
 # Battle Bots
 
-![example/scene.png](https://github.com/theantagonist9509/battle-bots/blob/main/battle-bots.png)
+![example/scene.png](https://github.com/theantagonist9509/battle-bots/blob/main/battle-bots-no-qr.png)
 
 ## Problem Statement
 
