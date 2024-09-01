@@ -20,10 +20,10 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 ## Submission
 
-* All submissions must be made through [this]() Google Form.
+* All submissions must be made through [this](https://forms.gle/3jynTXrTEkQkMWVA6) Google Form.
 * The submission should include:
   1. Your **single file** Python script (named as `teamname_bot.py`)
   2. A brief description explaining your bot's strategy (doesn't need to be very detailed!)
 * The deadline for submissions is 7th September, 11:59 PM.
 * Late submissions will not be accepted.
-* Make sure your code runs without errors and follows the input/output format as explained in the `example_bot.py` file in this repository.
+* Make sure your code runs without errors and follows the input/output format as explained in the [`example_bot.py`](https://github.com/theantagonist9509/battle-bots/blob/main/example_bot.py) file in this repository.
