@@ -6,6 +6,8 @@
 
 You are tasked with writing a Python script that controls a bot that can play the game of Tic Tac Toe.
 
+**Done with the challenge? [⬆️ SUBMIT HERE](https://forms.gle/3jynTXrTEkQkMWVA6)**
+
 ## Judging
 
 * Your bots will be compete against each other in a [round-robin tournament](https://en.wikipedia.org/wiki/Round-robin_tournament).
@@ -20,7 +22,7 @@ You are tasked with writing a Python script that controls a bot that can play th
 
 ## Submission
 
-* All submissions must be made through [this](https://forms.gle/3jynTXrTEkQkMWVA6) Google Form.
+* All submissions must be made through the submission link provided above.
 * The submission should include:
   1. Your **single file** Python script (named as `teamname_bot.py`)
   2. A brief description explaining your bot's strategy (doesn't need to be very detailed!)
