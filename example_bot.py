@@ -1,3 +1,4 @@
+# Necessary imports
 from GameState import GameState
 from Action import Action
 from threading import Thread
@@ -42,8 +43,15 @@ class Player(Thread):
         #    |   | O
     
         # If you wish to place your piece on index i of the list, then do
-        #     self.action=Action(i)
+        #     self.action = Action(i)
         #     return
+
+        # For example, substituting i for 3 for the above action and board position would give the new position:
+        # _X_|___|_X_
+        # _O_|_O_|___
+        #    |   | O
+
+        # IMPORTANT: Either bot (your's or your opponent's) could have to make the first move!
 
         # An example bot that places its piece randomly on empty squares
         while True:
