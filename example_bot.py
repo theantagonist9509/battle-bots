@@ -11,10 +11,10 @@ import random
 class Player(Thread):
 
     # *args is internally used; do not touch!
-    def __init__(self, my_variables_initial_value, *args):
+    def __init__(self, *args):
 
         # Declare/initialize your variables here
-        self.my_variable = my_variables_initial_value
+        self.my_example_variable = 0
 
         # Internally used code; do not touch these 3 lines!
         Thread.__init__(self)
