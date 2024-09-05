@@ -14,11 +14,17 @@ You are tasked with writing a Python script that controls a bot that can play th
 * For each match, you will be awarded 0, 0.5, or 1 point for a loss, draw, or win respectively.
 * The final standings will be generated based on the total tournament points of the bots.
 
+
 ## Participation
 
 * Teams can consist of up to two members. Solo participation is also allowed.
 * Each team can submit only one bot.
 * No prior experience in AI or advanced programming is required – this challenge is designed for beginners!
+
+## Testing
+* Use the Bot Tester provided to test your code
+* Just add your bot in the Bot_Tester/bots folder
+* To simulate a match... run the main.py file given in Bot_Tester
 
 ## Submission
 
