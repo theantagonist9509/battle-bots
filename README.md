@@ -24,7 +24,7 @@ You are tasked with writing a Python script that controls a bot that can play th
 ## Testing
 * Use the Bot Tester provided to test your code
 * Just add your bot in the Bot_Tester/bots folder
-* To simulate a match... run the main.py file given in Bot_Tester
+* To simulate a match, run the main.py file given in Bot_Tester
 
 ## Submission
 
