@@ -14,7 +14,7 @@ class Player(Thread):
     def __init__(self, *args):
 
         # Declare/initialize your variables here
-        self.my_variable = 1984
+        self.my_example_variable = 0
 
         # Internally used code; do not touch these 3 lines!
         Thread.__init__(self)
